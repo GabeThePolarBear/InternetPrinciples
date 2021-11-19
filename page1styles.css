@@ -1,0 +1,12 @@
+body {
+    background-image: url("photos/CSbackground.jpg");
+}
+h2 {
+    border: 2px dashed rgb(115, 204, 200);
+}
+aside li a {
+    text-decoration: none;
+ }
+ aside li a:hover{
+    text-decoration: underline;
+ }
